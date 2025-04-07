@@ -18,5 +18,3 @@ This project explores comprehensive **pizza sales data** using **MySQL** to deri
 - Discover peak sales hours and days  
 - Understand customer preferences in size and category  
 - Inform marketing, inventory, and pricing strategies
-
----
